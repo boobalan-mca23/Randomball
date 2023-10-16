@@ -4,6 +4,7 @@ Elevate the animation by enabling user input for modifying the ball's movement, 
 
 ## Step to run the Project
 Step1:Save the HTML file with a .html extension.
+
 Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
 
 ## Future improvement:
